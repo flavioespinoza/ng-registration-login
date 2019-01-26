@@ -39,3 +39,7 @@ typings
 
 # Generated files
 dist
+
+.env
+
+/.idea
